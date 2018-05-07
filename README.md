@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/dvf/blockchain.svg?branch=master)](https://travis-ci.org/dvf/blockchain)
 
-This is the source code for my post on [Building a Blockchain](https://medium.com/p/117428612f46). 
+This is the source code for my post on [Building a Blockchain](https://nitikesh.info/technical/basic-way-learn-blockchain-creating/). 
 
 ## Installation
 
